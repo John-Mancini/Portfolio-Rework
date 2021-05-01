@@ -33,7 +33,7 @@ a {
 }
 
 .nav a:hover {
-  color: black;
+  color: black !important;
   background-color: white;
 }
 
@@ -94,7 +94,7 @@ h4 {
   padding: 10px;
 }
 .message button {
-  width: 100%;
+  width: 94.5%;
   margin-bottom: 10px;
   padding: 10px;
 }
